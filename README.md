@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 
+#### Java <3
+viinncentt from Vienna.
 
-Viinncentt from Vienna.
+Skills: Java, JS / CSS / HTML
+ 
+- Discord Username: __vincent4 
+- Pronouns: he/him 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=viinncentt)](https://github.com/stats-organization/github-stats-extended)
+
+
+
+
