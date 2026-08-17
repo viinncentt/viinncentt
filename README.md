@@ -5,7 +5,10 @@ viinncentt from Vienna.
 
 **Skills:** Java, JS / CSS / HTML
 
-[![Singularity Gamejam](https://github-readme-stats.vercel.app/api/pin/?username=viinncentt&repo=Singularity-Gamejam)](https://github.com/viinncentt/Singularity-Gamejam)
+[![Singularity Gamejam](https://img.shields.io/badge/Singularity--Gamejam-View%20Repo-red?logo=github)](https://github.com/viinncentt/Singularity-Gamejam)
+[![The Lost Letters 2.0](https://img.shields.io/badge/TheLostLetters2.0-View%20Repo-red?logo=github)](https://github.com/viinncentt/TheLostLetters2.0)
+[![JJK](https://img.shields.io/badge/JJK-View%20Repo-red?logo=github)](https://github.com/viinncentt/JJK/tree/master)
+
 
 [Wakatime Profile](https://wakatime.com/@704ec189-b218-4e9d-ab79-767ef832c5b6)
 
